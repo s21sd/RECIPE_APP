@@ -9,12 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^1.19.4",
+    "@react-native-async-storage/async-storage": "1.18.2",
     "@react-native-seoul/masonry-list": "^1.4.2",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
     "axios": "^1.6.0",
     "expo": "~49.0.15",
+    "expo-linking": "~5.0.2",
     "expo-status-bar": "~1.6.0",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
@@ -22,7 +23,9 @@
     "react-native-masonry-list": "^2.16.1",
     "react-native-reanimated": "~3.3.0",
     "react-native-responsive-screen": "^1.4.2",
+    "react-native-webview": "13.2.2",
     "react-native-wind": "^1.2.0",
+    "react-native-youtube-iframe": "^2.3.0",
     "twrnc": "^3.6.4"
   },
   "devDependencies": {
