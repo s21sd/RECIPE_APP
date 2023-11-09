@@ -2,7 +2,7 @@ import React from 'react'
 import { View, Text, Image, ScrollView, TouchableOpacity } from 'react-native'
 import { categoryData } from '../Constrans/Data'
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
-import Animated, { FadeInDown, FadeOut } from 'react-native-reanimated';
+import Animated, { FadeInDown} from 'react-native-reanimated';
 const Categoury = ({ cati, getcategory, handleCategoury }) => {
 
     return (
