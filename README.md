@@ -36,7 +36,8 @@ Before you begin, ensure you have met the following requirements:
 - Node.js installed
 - npm or yarn installed
 - React Native development environment set up
+  
+![Food GIF](https://github.com/s21sd/RECIPE_APP/raw/master/assets/food.gif)
 
-[![Food GIF](https://github.com/s21sd/RECIPE_APP/raw/master/assets/food.gif)](https://github.com/s21sd/RECIPE_APP/blob/master/assets/food.gif)
 
 
