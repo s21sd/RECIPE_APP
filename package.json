@@ -9,6 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/plugin-transform-async-generator-functions": "^7.23.3",
+    "@babel/plugin-transform-class-properties": "^7.23.3",
+    "@babel/plugin-transform-export-namespace-from": "^7.23.3",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.23.3",
+    "@babel/plugin-transform-numeric-separator": "^7.23.3",
+    "@babel/plugin-transform-object-rest-spread": "^7.23.3",
+    "@babel/plugin-transform-optional-catch-binding": "^7.23.3",
+    "@babel/plugin-transform-optional-chaining": "^7.23.3",
     "@react-native-async-storage/async-storage": "1.18.2",
     "@react-native-seoul/masonry-list": "^1.4.2",
     "@react-navigation/native": "^6.1.9",
@@ -26,7 +34,8 @@
     "react-native-webview": "13.2.2",
     "react-native-wind": "^1.2.0",
     "react-native-youtube-iframe": "^2.3.0",
-    "twrnc": "^3.6.4"
+    "twrnc": "^3.6.4",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
